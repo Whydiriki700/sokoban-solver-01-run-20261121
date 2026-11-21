@@ -1,3 +1,5 @@
+![sokoban-solver-01-run-20261121](assets/preview.png)
+
 # sokoban-solver-01
 
 A Sokoban solver for generated hallway-and-rooms levels, entered in make.fun's
